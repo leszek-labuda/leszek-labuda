@@ -6,7 +6,7 @@
 
 💞️ I intend to cooperate on interesting projects.
 
-📫 How to reach me ... just send me a message.
+📫 How to reach me ...
 
 <!---
 leszek-labuda/leszek-labuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
