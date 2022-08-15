@@ -1,4 +1,4 @@
-👋 Hi, I’m @leszek-labuda.
+👋 Hi, I’m Leszek Łabuda.
 
 👀 I’m interested in building websites.
 
