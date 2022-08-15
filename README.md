@@ -12,6 +12,8 @@ I am building my own website https://leszeklabuda.com/. You can find the entire 
 
 I am writing mini projects at https://codepen.io/leszeklabuda/pens/public and at https://jsfiddle.net/user/leszeklabuda/fiddles.
 
+You can contact me via the contact form on my website.
+
 <!---
 leszek-labuda/leszek-labuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
